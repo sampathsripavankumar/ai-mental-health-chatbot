@@ -31,7 +31,7 @@ instant, empathetic responses based on real-time emotion detection.
 2. Run all cells in order
 3. Click the Gradio public link
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zKuX2qp_G-ItnRPkPM-j0CsZKd_B4JoG#scrollTo=R7Gm9elgIVW_)
 
 ##  Model Used
 - **Model:** `j-hartmann/emotion-english-distilroberta-base`

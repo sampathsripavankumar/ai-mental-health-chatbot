@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(page_title="🧠 AI Mental Health Chatbot", page_icon="🧠")
 st.title("🧠 AI Mental Health Chatbot")
-st.write("Built by **Sampath** | B.Tech AIML Final Year Project")
+st.write("Built by **Sampath**")
 
 @st.cache_resource
 def load_model():

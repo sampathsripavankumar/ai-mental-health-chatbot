@@ -16,13 +16,13 @@ def load_model():
 sentiment_model = load_model()
 
 responses = {
-    "joy":      "😊 That's wonderful! Keep that positive energy!",
+    "joy":      "😊 That's wonderful! I'm happy to hear you're feeling great. Keep that positive energy!",
     "sadness":  "💙 I'm sorry you're feeling sad. It's okay to feel this way.",
     "anger":    "😤 Take a deep breath. Things will get better.",
     "fear":     "🤗 You're stronger than you think!",
-    "disgust":  "😟 That sounds unpleasant. I'm here to listen.",
-    "surprise": "😮 Sounds unexpected! How are you feeling about it?",
-    "neutral":  "🙂 Tell me more about how your day is going?"
+    "disgust":  "😟  That sounds really unpleasant. Don't listen to other's people choice and advise.",
+    "surprise": "😮 Sounds unexpected! OMG i am really very shock",
+    "neutral":  "🙂 I hear you. that's good keep forwarding about your life."
 }
 
 user_input = st.text_area("How are you feeling today?", placeholder="Type here...")
